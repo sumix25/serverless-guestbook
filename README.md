@@ -1,1 +1,1 @@
-# serverless-guestbook
+# serverless-guestbook-web-app
